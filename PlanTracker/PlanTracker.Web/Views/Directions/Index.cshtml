@@ -12,14 +12,11 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.DirectionName)
+            Destinations
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.DirectionDescription)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.CreatedDate)
-        </th>
+           Descriptions
+        </th>      
         <th></th>
     </tr>
 
@@ -30,10 +27,7 @@
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.DirectionDescription)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.CreatedDate)
-        </td>
+        </td>       
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
             @Html.ActionLink("Details", "Details", new { id=item.ID }) |

@@ -8,6 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using PlanTracker.DBAccess;
 using PlanTracker.Models;
+using PlanTracker.Web.Models;
 
 namespace PlanTracker.Web.Controllers
 {
@@ -29,10 +30,17 @@ namespace PlanTracker.Web.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Direction direction = db.Directions.Find(id);
+            //List<Todo> todoes = new List<Todo>();
+            //todoes = db.Todos.Where(p => p.DirectionID == id).ToList();
             if (direction == null)
             {
                 return HttpNotFound();
             }
+            //var returnObj = new DirectionViewModel
+            //{
+            //    Direction = direction,
+            //    Todoes = todoes
+            //};
             return View(direction);
         }
 
@@ -47,10 +55,11 @@ namespace PlanTracker.Web.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,DirectionName,DirectionDescription,CreatedDate")] Direction direction)
+        public ActionResult Create([Bind(Include = "DirectionName,DirectionDescription")] Direction direction)
         {
             if (ModelState.IsValid)
             {
+                direction.CreatedDate = DateTime.Now;
                 db.Directions.Add(direction);
                 db.SaveChanges();
                 return RedirectToAction("Index");

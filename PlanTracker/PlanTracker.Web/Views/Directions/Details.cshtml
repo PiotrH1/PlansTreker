@@ -25,18 +25,9 @@
         <dd>
             @Html.DisplayFor(model => model.DirectionDescription)
         </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.CreatedDate)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.CreatedDate)
-        </dd>
-
     </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Direction.ID }) |
+    @Html.ActionLink("Back to List", "Index")   
 </p>
