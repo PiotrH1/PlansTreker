@@ -1,0 +1,17 @@
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\PlanTracker.DBAccess.dll.config
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\PlanTracker.DBAccess.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\PlanTracker.DBAccess.pdb
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\EntityFramework.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\PlanTracker.Models.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\PlanTracker.Models.pdb
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\PlanTracker.Models.dll.config
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\EntityFramework.xml
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.csprojAssemblyReference.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.csproj.CopyComplete
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.pdb
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.Migrations.first.resources
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.csproj.GenerateResource.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker.DBAccess\obj\Debug\PlanTracker.DBAccess.Migrations.second.resources

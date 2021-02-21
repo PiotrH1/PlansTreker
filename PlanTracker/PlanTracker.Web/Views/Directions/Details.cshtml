@@ -1,0 +1,42 @@
+﻿@model PlanTracker.Models.Direction
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Direction</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DirectionName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DirectionName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DirectionDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DirectionDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

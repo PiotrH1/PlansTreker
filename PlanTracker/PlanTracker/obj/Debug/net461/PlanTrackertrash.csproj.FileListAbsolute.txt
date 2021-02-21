@@ -1,0 +1,7 @@
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\PlanTrackertrash.csprojAssemblyReference.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\PlanTrackertrash.exe.config
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\PlanTrackertrash.RazorAssemblyInfo.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\PlanTrackertrash.RazorAssemblyInfo.cs
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\UserSecretsAssemblyInfo.cs
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\PlanTrackertrash.AssemblyInfoInputs.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker\obj\Debug\net461\PlanTrackertrash.AssemblyInfo.cs

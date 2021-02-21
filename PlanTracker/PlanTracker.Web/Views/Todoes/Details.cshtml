@@ -1,0 +1,50 @@
+﻿@model PlanTracker.Models.Todo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Todo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DirectionID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DirectionID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TodoName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TodoName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TodoDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TodoDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedtDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedtDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TodoID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

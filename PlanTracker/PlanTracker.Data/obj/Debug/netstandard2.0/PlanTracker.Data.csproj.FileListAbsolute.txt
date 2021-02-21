@@ -1,0 +1,8 @@
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\bin\Debug\netstandard2.0\PlanTracker.Data.deps.json
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\bin\Debug\netstandard2.0\PlanTracker.Data.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\obj\Debug\netstandard2.0\PlanTracker.Data.csprojAssemblyReference.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\obj\Debug\netstandard2.0\PlanTracker.Data.AssemblyInfoInputs.cache
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\obj\Debug\netstandard2.0\PlanTracker.Data.AssemblyInfo.cs
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\bin\Debug\netstandard2.0\PlanTracker.Data.pdb
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\obj\Debug\netstandard2.0\PlanTracker.Data.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Data\obj\Debug\netstandard2.0\PlanTracker.Data.pdb

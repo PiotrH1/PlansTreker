@@ -1,0 +1,10 @@
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\PlanTracker.Models.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\PlanTracker.Models.pdb
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\obj\Debug\PlanTracker.Models.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\obj\Debug\PlanTracker.Models.pdb
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\PlanTracker.Models.dll.config
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\EntityFramework.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\EntityFramework.xml
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Developer\plansTreker\PlanTracker\PlanTracker.Models\obj\Debug\PlanTracker.Models.csproj.CopyComplete

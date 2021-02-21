@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PlanTracker",
+    "\\PlanTracker\\PlanTracker",
+    "\\PlanTracker\\PlanTrackerCore",
+    "\\PlanTracker\\PlanTrackerDB",
+    "\\PlanTracker\\PlanTracker\\Controllers",
+    "\\PlanTracker\\PlanTracker\\Data",
+    "\\PlanTracker\\PlanTracker\\DataAccess",
+    "\\PlanTracker\\PlanTracker\\Data\\Migrations"
+  ],
+  "SelectedNode": "\\PlanTracker\\PlanTrackerDB\\Class1.cs",
+  "PreviewInSolutionExplorer": false
+}
